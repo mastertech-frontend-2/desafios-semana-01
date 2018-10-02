@@ -1,0 +1,7 @@
+div {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mongolische_Wuestenrennmaus.jpg/250px-Mongolische_Wuestenrennmaus.jpg');
+    width: 250px;
+    height: 188px;
+
+    border-radius: 15px;
+}
