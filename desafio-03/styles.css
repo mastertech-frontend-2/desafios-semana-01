@@ -1,0 +1,41 @@
+.cubo {
+    display: flex;
+    flex-wrap: wrap;
+    
+    width: 300px;
+    height: 300px
+}
+
+.cubo div {
+    width: 100px;
+    height: 100px;
+    
+    border: 2px solid black;
+    border-radius: 10px;
+    
+    box-sizing: border-box;
+}
+
+.verde {
+    background-color: green;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.branco {
+    background-color: white;
+}
+
+.laranja {
+    background-color:orange;
+}
+
+.amarelo {
+    background-color: yellow;
+}
